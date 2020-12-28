@@ -2,7 +2,7 @@
  * morse.c
  *
  *  Created on: 28 gru 2020
- *      Author: SHON
+ *      Author: Sebastian Koczur
  */
 
 

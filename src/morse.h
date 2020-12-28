@@ -2,7 +2,7 @@
  * morse.h
  *
  *  Created on: 28 gru 2020
- *      Author: SHON
+ *      Author: Sebastian Koczur
  */
 
 #ifndef SRC_MORSE_H_
